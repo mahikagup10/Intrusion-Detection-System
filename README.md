@@ -24,3 +24,4 @@ How to run the program:
 References:
 Amarudin, Ridi Ferdianand and Widyawan, “A Systematic Literature Review of Intrusion Detection System for Network Security: Research Trends, Datasets and Methods”, 2020 4th International Conference on Informatics and Computational Sciences (ICICoS).
 
+LUFlow Network Intrusion Detection Data Set, uploaded onto Kaggle by Ryan Mills. (Visit https://www.kaggle.com/datasets/mryanm/luflow-network-intrusion-detection-data-set to view more csv files)
