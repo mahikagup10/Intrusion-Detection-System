@@ -1,5 +1,5 @@
 # Intrusion-Detection-System
-Implementation of Intrusion detection system using machine learning models
+Implementation of Intrusion detection system using machine learning models 
 
 Network Intrusion Detection Using Machine Learning Models.
 
@@ -15,6 +15,11 @@ In order to acquire a general perspective of the dataset, exploratory analysis w
 The six methods that are most used in IDS were found and implemented. The dataset was split as 80% for training the models, and 20% for testing the models.
 The accuracy score ,training time, and testing time was found for each model. These metrics were compared to find the model with the highest performance and accuracy. From this we came to the conclusion that the Random Forest model has the best score in terms of accuracy.
 
+How to run the program:
+- Download both the .ipynb file and the chosen dataset (.csv file)
+- In the python notebook, replace the path for the .csv file with the path of the location of your csv file. (if it is in the same directory and the same file name, ignore this step)
+- Run all the cells and note the difference in accuracy amongst all the models presented
+- Repeat the steps with different datasets and compare to ensure no skewing of data
 
 References:
 Amarudin, Ridi Ferdianand and Widyawan, “A Systematic Literature Review of Intrusion Detection System for Network Security: Research Trends, Datasets and Methods”, 2020 4th International Conference on Informatics and Computational Sciences (ICICoS).
